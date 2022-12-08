@@ -1,0 +1,28 @@
+{
+  "clients": [
+    {
+      "title": "CIRCLE_K",
+      "discountPercentage": "20",
+      "transactionsCount": "11",
+      "additionalDiscountPercentage": "20",
+      "img": "https://imgur.com/kG3osjv.png",
+      "id": "9lWEadp"
+    },
+    {
+      "title": "TELIA",
+      "discountPercentage": "10",
+      "transactionsCount": "10",
+      "additionalDiscountPercentage": "20",
+      "img": "https://i.imgur.com/yu1i6wY.png",
+      "id": "tSI-qgK"
+    },
+    {
+      "title": "7-ELEVEN",
+      "discountPercentage": "0",
+      "transactionsCount": "0",
+      "additionalDiscountPercentage": "20",
+      "img": "https://imgur.com/RQQ84rD.png",
+      "id": "OBkVCT7"
+    }
+  ]
+}
